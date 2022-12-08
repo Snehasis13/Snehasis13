@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Print_Multiplication_table_using_OPP's_python](https://github.com/Snehasis13/python_project)
+- 🔭 I’m currently working on [Gold's Gym Website](https://github.com/Snehasis13/Gold-s_Gym_Website)
 
 - 🌱 I’m currently learning **Python**
 
