@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Gold's Gym Website](https://github.com/Snehasis13/Gold-s_Gym_Website)
+- 🔭 I’m currently working on [Interviewer:-An AI powered Interview platform](https://github.com/Snehasis13/Interviewer)
 
 - 🌱 I’m currently learning **Python**
 
